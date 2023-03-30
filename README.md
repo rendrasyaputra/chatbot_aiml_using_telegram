@@ -1,4 +1,4 @@
-# Chatbot_aiml_using_telegram
+# Deskripsi
 Chatbot berbasis AIML dengan NLP dan fitur spell check dan dapat di integrasikan dengan telegram bot
 
 # Requirements
