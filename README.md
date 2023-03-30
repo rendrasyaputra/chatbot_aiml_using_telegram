@@ -1,5 +1,5 @@
 # Chatbot_aiml_using_telegram
-Chatbot berbasis AIML dengan NLP dan fitur spell check dan di terintegrasi dengan telegram bot
+Chatbot berbasis AIML dengan NLP dan fitur spell check dan dapat di integrasikan dengan telegram bot
 
 # Requirements
 - Bot Father (Telegram)
