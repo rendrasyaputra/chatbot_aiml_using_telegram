@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0"> 
+    <category>
+        <pattern>JAM KERJA PMB</pattern>
+        <template>Pelayanan PMB UAD buka setiap hari Senin - Sabtu, dari jam 08.00 - 16.00, pelayanan dilakukan secara online
+        atau datang langsung ke Kampus 4 (Utama) UAD</template>
+    </category>
+    <category>
+        <pattern>BUKA JAM</pattern>
+        <template>Pelayanan PMB UAD buka setiap hari Senin - Sabtu, dari jam 08.00 - 16.00, pelayanan dilakukan secara online
+        atau datang langsung ke Kampus 4 (Utama) UAD</template>
+    </category>
+    <category>
+        <pattern>JAM BUKA PMB</pattern>
+        <template>Pelayanan PMB UAD buka setiap hari Senin - Sabtu, dari jam 08.00 - 16.00, pelayanan dilakukan secara online
+        atau datang langsung ke Kampus 4 (Utama) UAD</template>
+    </category>
+    <category>
+        <pattern>JAM LAYAN PMB</pattern>
+        <template>Pelayanan PMB UAD buka setiap hari Senin - Sabtu, dari jam 08.00 - 16.00, pelayanan dilakukan secara online
+        atau datang langsung ke Kampus 4 (Utama) UAD</template>
+    </category>
+</aiml>
