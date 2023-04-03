@@ -7,7 +7,6 @@ Chatbot berbasis AIML dengan NLP dan fitur spell check dan dapat di integrasikan
 # Libary
 - aiml
 - sastrawi
-- nltk
 - telegram
 
 # Menajalankan Program
